@@ -1,0 +1,25 @@
+{
+  "name": "multi-search",
+  "version": "1.0.0",
+  "description": "Multi Search",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RajikaKeminda/multi-search.git"
+  },
+  "keywords": [
+    "multi",
+    "search",
+    "multi search"
+  ],
+  "author": "Rajika Keminda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RajikaKeminda/multi-search/issues"
+  },
+  "homepage": "https://github.com/RajikaKeminda/multi-search#readme"
+}

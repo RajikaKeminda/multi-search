@@ -1,4 +1,4 @@
-# multi-search
+# Multi Search
 
 ## Installation
 

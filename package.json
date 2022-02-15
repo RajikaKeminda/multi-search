@@ -1,8 +1,9 @@
 {
   "name": "multi-search",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Multi Search",
   "main": "index.js",
+  "types": "index.d.ts",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

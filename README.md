@@ -1,5 +1,10 @@
 # Multi Search
 
+[Multi Search](https://github.com/RajikaKeminda/multi-search) is a lightweight list filtering library.
+
+### Why [Multi Search](https://github.com/RajikaKeminda/multi-search)?
+Multi Search provides a way to filter array of object without worrying object keys.
+
 ## Installation
 
 Using npm:

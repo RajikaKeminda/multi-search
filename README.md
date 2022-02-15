@@ -6,6 +6,10 @@ Using npm:
 ```shell
 $ npm i multi-search
 ```
+Using yarn:
+```shell
+$ yarn add multi-search
+```
 ## Example
 ```js
 import search from 'multi-search'

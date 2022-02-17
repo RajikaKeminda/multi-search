@@ -2,6 +2,8 @@
 
 [Multi Search](https://github.com/RajikaKeminda/multi-search) is a lightweight list filtering library.
 
+### [Demo](https://multi-search.vercel.app)
+
 ### Why [Multi Search](https://github.com/RajikaKeminda/multi-search)?
 Multi Search provides a way to filter array of object without worrying object keys.
 
